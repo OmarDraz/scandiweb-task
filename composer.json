@@ -1,0 +1,9 @@
+{
+    "name": "omar/scandiweb",
+    "autoload": {
+        "psr-4": {
+            "Omar\\Scandiweb\\": "src/"
+        }
+    },
+    "require": {}
+}
